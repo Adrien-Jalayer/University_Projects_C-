@@ -1,0 +1,14 @@
+C:\Users\Adrien\Desktop\WeekDaysApp\bin\Debug\net9.0\WeekDaysApp.exe
+C:\Users\Adrien\Desktop\WeekDaysApp\bin\Debug\net9.0\WeekDaysApp.deps.json
+C:\Users\Adrien\Desktop\WeekDaysApp\bin\Debug\net9.0\WeekDaysApp.runtimeconfig.json
+C:\Users\Adrien\Desktop\WeekDaysApp\bin\Debug\net9.0\WeekDaysApp.dll
+C:\Users\Adrien\Desktop\WeekDaysApp\bin\Debug\net9.0\WeekDaysApp.pdb
+C:\Users\Adrien\Desktop\WeekDaysApp\obj\Debug\net9.0\WeekDaysApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrien\Desktop\WeekDaysApp\obj\Debug\net9.0\WeekDaysApp.AssemblyInfoInputs.cache
+C:\Users\Adrien\Desktop\WeekDaysApp\obj\Debug\net9.0\WeekDaysApp.AssemblyInfo.cs
+C:\Users\Adrien\Desktop\WeekDaysApp\obj\Debug\net9.0\WeekDaysApp.csproj.CoreCompileInputs.cache
+C:\Users\Adrien\Desktop\WeekDaysApp\obj\Debug\net9.0\WeekDaysApp.dll
+C:\Users\Adrien\Desktop\WeekDaysApp\obj\Debug\net9.0\refint\WeekDaysApp.dll
+C:\Users\Adrien\Desktop\WeekDaysApp\obj\Debug\net9.0\WeekDaysApp.pdb
+C:\Users\Adrien\Desktop\WeekDaysApp\obj\Debug\net9.0\WeekDaysApp.genruntimeconfig.cache
+C:\Users\Adrien\Desktop\WeekDaysApp\obj\Debug\net9.0\ref\WeekDaysApp.dll
